@@ -1,5 +1,8 @@
 # bookbot
-Boot.dev First Project. You'll build a real command-line application in Python that does static analysis on text files, or rather, entire novels like "Frankenstein". You'll be guided through the set up of a professional development environment using VS Code, Git, and Github. This is the perfect first Python project for beginners.
+This is a project assignment in boot.dev
 
-This is the first project in boot.dev journey.
-BookBot is my first project!
+# How to use?
+* Create a books directory in project directory
+* Add the text of given book as .txt file into the books directory (books/book_name.txt)
+* Update the file reading part in the main.py (books/book_name.txt)
+* Just run main.py with python
