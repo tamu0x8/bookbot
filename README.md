@@ -1,5 +1,5 @@
 # bookbot
-This is a project assignment in boot.dev
+This is a project assignment in boot.dev. This bot will output how many times a character is used in a inputed text file.
 
 # How to use?
 * Create a books directory in project directory
